@@ -17,6 +17,8 @@ body{
     padding-right: 15px;
     padding-top: 10px;
     position: static;
+    transform: translateY(20%);
+
     
 }
 
